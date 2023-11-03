@@ -5,7 +5,6 @@ import instagramIcon from 'assets/instagramIcon.svg';
 import linkedinIcon from 'assets/linkedinIcon.svg';
 import { useCallback, useEffect, useState } from 'react';
 import { FormDataProps } from './components/FormComponent/types/FormDataProps';
-import { requisicaoApi } from 'hook/api';
 import axios from 'axios';
 
 export const useHomePageViewModel = () => {
