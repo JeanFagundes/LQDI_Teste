@@ -1,8 +1,10 @@
-# [Descrição](https://github.com/VictorDiniz89/app-lqdi/blob/master/README.md#descri%C3%A7%C3%A3o)
+# Considerações
 
-Esse App é para o processo seletivo da empresa LQDI: Foi recortado um layout de um formulário de newsletter disponível no figma, onde recebe os campos de nome e email, e faz a inscrição do usúario.
+Botão do Header da página que irá encaminhar para as tarefas bônus:
 
-Foi utilizado no app Front end a biblioteca React.js, além do uso de HTML e CSS na composição do projeto
+- Registro de usuario
+- Login de usuario
+- Listar usuarios do Banco de dados
 
 # [Para rodar o código](https://github.com/VictorDiniz89/app-lqdi/blob/master/README.md#para-rodar-o-c%C3%B3digo)
 
