@@ -1,0 +1,31 @@
+input {
+	width: 480px;
+	height: 47px;
+	border: 2px dashed rgba(63, 63, 63, 0.4);
+	border-radius: 10px;
+	font-weight: 600;
+	color: rgba(16, 17, 19, 0.6);
+	background: linear-gradient(
+		to right,
+		#f1f4f9 0%,
+		#f1f4f9 163px,
+		#f7f7f7 163px
+	);
+}
+input::file-selector-button {
+	font-weight: bold;
+	border: none;
+	background-color: #f1f4f9;
+	padding: 13px;
+	height: 100%;
+	opacity: 0.8;
+	border-radius: 5px;
+	width: 163px;
+}
+textarea {
+	border: none;
+	outline: none;
+}
+textarea.textArea:focus {
+	border: 1px solid #0999ba; /* Altera a cor da borda para azul quando em foco */
+}
